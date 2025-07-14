@@ -1,5 +1,11 @@
-## Hi there 👋
+Le Thi Thanh Tu
+--------------------------------------------------
 
+## Hi there, I am Tu pursuing Information Technology at University of Transport in Ho Chi Minh City. Welcome to my GitHub! 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeiThanhTu)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeiThanhTu&langs_count=8)
 <!--
 **LeiThanhTu/LeiThanhTu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
